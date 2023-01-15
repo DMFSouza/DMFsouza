@@ -5,13 +5,13 @@
   <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DMFSouza&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="DMFS-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="DMFS-tlpp" height="30" width="70" src="https://github.com/DMFSouza/devicons/blob/main/tlpp.png">
   <img align="center" alt="DMFS-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="DMFS-React" height="30" width="40" src="https://raw.githubusercontent.com/DMFSouza/devicons/main/angular.svg">
+  <img align="center" alt="DMFS-Angular" height="30" width="40" src="https://raw.githubusercontent.com/DMFSouza/devicons/main/angular.svg">
   <img align="center" alt="DMFS-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="DMFS-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="DMFS-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="DMFS-Cplusplus" height="30" width="30" src="https://github.com/DMFSouza/devicons/blob/main/pngegg.png">
+  <img align="center" alt="DMFS-Cpp" height="30" width="30" src="https://github.com/DMFSouza/devicons/blob/main/pngegg.png">
 </div>
   
   ##
