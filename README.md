@@ -2,7 +2,7 @@
 <div align="left">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=DMFSouza&show_icons=true&theme=transparent&locale=en&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff" alt="DMFSouza" />
  
-<h3>Currently proficient in:</h3>
+ <ul><h3>Currently proficient in:</h3></ul>
   <ul>
     <li><b>ERP Development</b></li>
     <li><b>REST APIs</b></li>
