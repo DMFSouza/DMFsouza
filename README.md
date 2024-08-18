@@ -28,7 +28,6 @@
 ![CSS3](https://img.shields.io/badge/CSS-black?style=flat-square&logo=CSS3&logoColor=2d72e9)
 ![Javascript](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
-![VSCode](https://img.shields.io/badge/VSCode-black?style=flat-square&logo=visual-studio-code&logoColor=2D9EE9)
 ![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git)
 [![Github](https://img.shields.io/badge/Github-black?style=flat-square&logo=github)](https://github.com/RiannReis)
 </div>
